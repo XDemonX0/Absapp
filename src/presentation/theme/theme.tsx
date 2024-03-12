@@ -8,6 +8,9 @@ export const styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
-    
-
+    lg: {
+      fontSize: 30,
+      color: '#f00dee',
+      fontWeight: 'bold'
+    }
 });
